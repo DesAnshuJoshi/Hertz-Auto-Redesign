@@ -62,4 +62,4 @@ The website is deployed to Netlify and can be accessed at the following link: ht
 Contributions to "Hertz India Redesign" are always welcome. If you'd like to contribute, please fork the repository and create a pull request.
 ## License
 
-The project is developed under GNU Public License.
+The project is developed under GNU General Public License v3.0.
